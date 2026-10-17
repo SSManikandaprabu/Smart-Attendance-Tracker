@@ -1,4 +1,4 @@
-(https://github.com/user-attachments/files/33601520/README.3.md)
+
 <div align="center">
 
 # ✓ AttendX
